@@ -23,7 +23,7 @@ $ csv2svg_graph.py --input_file /path/to/csv_file --output_file output_file.svg
 ```
 
 # Example
-![Generated graph](https://raw.githubusercontent.com/GeoffWilliams/csv2svg_graph/master/example/memory.svg)
+![Generated graph](https://cdn.rawgit.com/GeoffWilliams/csv2svg_graph/master/example/memory.svg)
 Generated from a CSV file in the format:
 ```csv
 # Command line arguments:-XX:+UseConcMarkSweepGC -Xmx6000m 
