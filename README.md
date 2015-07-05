@@ -3,7 +3,7 @@ Convert csv to SVG graphs - the easy way!
 
 # Features
 * Reads a CSV file and turns it into a line graph
-* Uses [pygal[(http://pygal.org/)
+* Uses [pygal](http://pygal.org/)
 * Uses lines starting with `#` as a title
 * Automatically maps CSV headers to the legend
 * Blank lines are automatically skipped
@@ -23,7 +23,7 @@ $ csv2svg_graph.py --input_file /path/to/csv_file --output_file output_file.svg
 ```
 
 # Example
-![Generated graph](/example/memory.svg)
+![Generated graph](example/memory.svg)
 Generated from a CSV file in the format:
 ```csv
 # Command line arguments:-XX:+UseConcMarkSweepGC -Xmx6000m 
